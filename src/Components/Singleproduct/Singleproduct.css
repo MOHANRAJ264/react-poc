@@ -1,0 +1,17 @@
+.Box{
+    width: 70%;
+    margin-top: 20px;
+    margin-left: 15%;
+}
+h3{
+    margin-top: 20px;
+    text-align: center;
+}
+h5{
+    margin-top: 20px;
+    text-align: center;
+}
+.button{
+    display: flex; justify-content: center;
+    padding: 20px;
+}
